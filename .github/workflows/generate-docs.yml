@@ -47,7 +47,7 @@ jobs:
         git config --global user.email 'vincent.emonet@gmail.com'
         git fetch
         git checkout gh-pages
-        mv docs/* .
+        cp -r docs/* . && rm -rf docs
         git add browse graph lode tree
         git commit -m "Automatically generate documentation from SIO OWL ontology file using Ontospy and Widoco (lode)."
         git push || exit 0
