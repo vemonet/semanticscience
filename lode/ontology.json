@@ -6651,7 +6651,7 @@
     "@value" : "http://sio.semanticscience.org"
   } ],
   "http://www.w3.org/2002/07/owl#versionInfo" : [ {
-    "@value" : "1.50"
+    "@value" : "1.51"
   } ]
 }, {
   "@id" : "http://semanticscience.org/resource/SIO_000000",

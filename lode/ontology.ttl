@@ -66,7 +66,7 @@ mailing list: http://groups.google.com/group/sio-ontology
 role chains:
 'has capability' o 'is realized in' -> 'is participant in'""" ;
                                                rdfs:seeAlso "http://sio.semanticscience.org"^^xsd:anyURI ;
-                                               owl:versionInfo "1.50" .
+                                               owl:versionInfo "1.51" .
 
 #################################################################
 #    Annotation properties
